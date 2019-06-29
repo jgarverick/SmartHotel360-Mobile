@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "SmartHotel.Clients.sln",
+    "projects": [
+      "SmartHotel.Clients\\SmartHotel.Clients.Android\\SmartHotel.Clients.Android.csproj",
+      "SmartHotel.Clients\\SmartHotel.Clients\\SmartHotel.Clients.csproj"
+    ]
+  }
+}
