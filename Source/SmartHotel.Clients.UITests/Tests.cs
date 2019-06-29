@@ -1,7 +1,9 @@
 ﻿using NUnit.Framework;
 using SmartHotel.Clients.UITests.Pages;
 using Xamarin.UITest;
-
+/// <summary>
+/// UI Tests for SmartHotel
+/// </summary>
 namespace SmartHotel.Clients.UITests
 {
     public class Tests : BaseTestFixture
